@@ -1,5 +1,5 @@
 {
-  "name": "uci",
+  "name": "@jaxony/uci",
   "main": "./src/main.js",
   "version": "0.3.3",
   "author": "Raminder Singh <romi_ssk@yahoo.co.in>",
@@ -7,7 +7,7 @@
   "homepage": "http://imor.github.io/uci/docs/src/main.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/imor/uci.git"
+    "url": "https://github.com/jaxony/uci.git"
   },
   "keywords": [
     "chess",
